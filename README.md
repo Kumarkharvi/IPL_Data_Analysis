@@ -14,6 +14,7 @@
 
 This is the Analysis and Visualization which I made using python please go through this PDF file
 http://localhost:8888/nbconvert/html/IPL%20Data%20Analysis.ipynb?download=false
+else you can go through the ipynb file provided above
 
 <p align="center">
   <img width="380" height="200" src="https://user-images.githubusercontent.com/103169083/180431456-560f0d40-fc59-40c1-a5e3-53dd5bc71275.png">
